@@ -9,7 +9,11 @@
   <meta name="author" content="zrz">
       
   
-  <meta name="description" content="第一篇博客 小公举教我建博客 ">
+  <meta name="description" content="第一篇博客 发布博客步骤
+cd到文件目录下
+新建标准格式的markdown文件 例如 2016-05-17-title.markdown 或者 `rake new_post["文章标题"]`
+修改文章后 直接 `rake gen_deploy` 发布文章
+或者也可以 `rake generate &hellip;">
   <meta name="keywords" content="">
 
   <!-- http://t.co/dKP3o1e -->
@@ -91,7 +95,12 @@
 
   <div class="entry-content"><p>第一篇博客</p>
 
-<pre><code>小公举教我建博客
+<pre><code>发布博客步骤
+cd到文件目录下
+新建标准格式的markdown文件 例如 2016-05-17-title.markdown  或者 `rake new_post["文章标题"]`
+修改文章后 直接 `rake gen_deploy` 发布文章
+或者也可以 `rake generate` 生成文件后 `rake preview`预览  打开`http://localhost:4000/`可以预览 没有问题
+再`rake deploy`发布
 </code></pre>
 </div>
   
