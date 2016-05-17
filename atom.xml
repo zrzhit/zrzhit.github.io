@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://zrzhit.github.io/atom.xml" rel="self"/>
   <link href="http://zrzhit.github.io/"/>
-  <updated>2016-05-17T16:46:47+08:00</updated>
+  <updated>2016-05-17T16:57:29+08:00</updated>
   <id>http://zrzhit.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Blood]]></title>
+    <link href="http://zrzhit.github.io/blog/2016/05/17/first-blood/"/>
+    <updated>2016-05-17T16:54:20+08:00</updated>
+    <id>http://zrzhit.github.io/blog/2016/05/17/first-blood</id>
+    <content type="html"><![CDATA[<pre><code>小公举教我建博客
+</code></pre>
+]]></content>
+  </entry>
   
 </feed>
