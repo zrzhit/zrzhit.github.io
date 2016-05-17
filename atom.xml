@@ -4,7 +4,7 @@
   <title><![CDATA[zrzhit Blog]]></title>
   <link href="http://zrzhit.github.io/atom.xml" rel="self"/>
   <link href="http://zrzhit.github.io/"/>
-  <updated>2016-05-17T21:15:05+08:00</updated>
+  <updated>2016-05-17T21:18:40+08:00</updated>
   <id>http://zrzhit.github.io/</id>
   <author>
     <name><![CDATA[zrz]]></name>
@@ -20,12 +20,12 @@
     <id>http://zrzhit.github.io/blog/first-blood</id>
     <content type="html"><![CDATA[<h3>第一篇博客</h3>
 
-<blockquote><p>发布博客步骤
+<p>发布博客步骤
 cd到文件目录下
 新建标准格式的markdown文件 例如 2016-05-17-title.markdown  或者 <code>rake new_post["文章标题"]</code>
 修改文章后 直接 <code>rake gen_deploy</code> 发布文章
 或者也可以 <code>rake generate</code> 生成文件后 <code>rake preview</code>预览  打开<code>http://localhost:4000/</code>可以预览 没有问题
-再<code>rake deploy</code>发布</p></blockquote>
+再<code>rake deploy</code>发布</p>
 
 <pre><code>花儿再美丽，但也要谢
 春天再温暖，还是要过
